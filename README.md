@@ -274,7 +274,7 @@ Through this project I learned:
 
 # 👨‍💻 Author
 
-**Name:** Vishnu
+**Name:** BALA VISHNU
 
 **Course:** B.Tech (Electronics and Communication Engineering)
 
