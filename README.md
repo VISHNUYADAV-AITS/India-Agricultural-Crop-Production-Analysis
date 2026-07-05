@@ -1,4 +1,21 @@
 # 🌾 India's Agricultural Crop Production Analysis
+## 📌 Internship Project
+
+**Organization:** SmartBridge
+
+**Program:** Skill Wallet Virtual Internship
+
+**Domain:** Data Analytics
+
+**Project Title:** India's Agricultural Crop Production Analysis
+
+**Duration:** 2026 Internship Program
+
+---
+
+## 📖 Abstract
+
+This project analyzes agricultural crop production across different states and districts of India using data analytics techniques. The objective is to identify production trends, compare crop yields, analyze seasonal patterns, and present insights through SQL analysis and Tableau dashboard planning. The project demonstrates the complete data analytics workflow, including data collection, preparation, analysis, visualization, and documentation.
 
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-blue)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
